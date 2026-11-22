@@ -105,6 +105,8 @@
 - [ZK Stack](https://docs.zksync.io/zk-stack) - Framework for building sovereign ZK chains on zkSync.
 
 ## Data and Indexing
+
+- [Chain.Love](https://chain.love/) - Open-source dataset of Web3 infrastructure providers, including RPCs, indexers, wallets and explorers, for cross-network service discovery.
 - [Blockscout](https://github.com/blockscout/blockscout) - Open-source Blockchain explorer for Ethereum networks.
 - [Ponder](https://github.com/ponder-sh/ponder) - Backend framework for Blockchain applications.
 - [rindexer](https://github.com/joshstevens19/rindexer) - Ethereum indexer written in Rust.
